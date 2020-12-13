@@ -2,6 +2,7 @@
 DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN,cdn.branch.io
 
 #github.com
 DOMAIN-SUFFIX,githubusercontent.com
