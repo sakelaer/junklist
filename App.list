@@ -18,3 +18,8 @@ DOMAIN-SUFFIX,mojang.com
 
 #喜马拉雅
 DOMAIN-SUFFIX,xmcdn.com
+
+#Steam
+DOMAIN-SUFFIX,store.steampowered.com
+DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN-KEYWORD,steamstore
