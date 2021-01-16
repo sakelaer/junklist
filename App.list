@@ -20,8 +20,8 @@ DOMAIN-SUFFIX,mojang.com
 DOMAIN-SUFFIX,xmcdn.com
 
 #Steam
- DOMAIN-SUFFIX,store.steampowered.com		
- DOMAIN-SUFFIX,steamcommunity.com		
- DOMAIN-SUFFIX,steamcdn-a.akamaihd.net		
- DOMAIN-SUFFIX,steamuserimages-a.akamaihd.net		
- DOMAIN-SUFFIX,cdn.cloudflare.steamstatic.com
+DOMAIN-SUFFIX,store.steampowered.com		
+DOMAIN-SUFFIX,steamcommunity.com		
+DOMAIN-SUFFIX,steamcdn-a.akamaihd.net		
+DOMAIN-SUFFIX,steamuserimages-a.akamaihd.net		
+DOMAIN-SUFFIX,cdn.cloudflare.steamstatic.com
