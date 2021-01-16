@@ -22,4 +22,5 @@ DOMAIN-SUFFIX,xmcdn.com
 #Steam
 DOMAIN-SUFFIX,store.steampowered.com
 DOMAIN-SUFFIX,steamcommunity.com
-DOMAIN-KEYWORD,steamstore
+DOMAIN-SUFFIX,steamstore-a.akamaihd.net
+DOMAIN-SUFFIX,steamuserimages-a.akamaihd.net
