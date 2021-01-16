@@ -20,6 +20,9 @@ DOMAIN-SUFFIX,mojang.com
 DOMAIN-SUFFIX,xmcdn.com
 
 #Steam
+DOMAIN-KEYWORD,steampowered
+DOMAIN-KEYWORD,steamcommunity
+DOMAIN-KEYWORD,steamstore
 DOMAIN-SUFFIX,store.steampowered.com		
 DOMAIN-SUFFIX,steamcommunity.com		
 DOMAIN-SUFFIX,steamcdn-a.akamaihd.net		
