@@ -4,6 +4,9 @@ DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN-SUFFIX,branch.io
 DOMAIN-SUFFIX,loggly.com
+DOMAIN-SUFFIX,amplitude.com
+DOMAIN-SUFFIX,segment.com
+DOMAIN-SUFFIX,amazonaws.com
 
 #github.com
 DOMAIN-SUFFIX,githubusercontent.com
